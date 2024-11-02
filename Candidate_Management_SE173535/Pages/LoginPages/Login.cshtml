@@ -1,0 +1,34 @@
+﻿@page
+@model CandidateManagement_GUI.Pages.LoginPages.LoginModel
+@{
+}
+<div class="container d-flex justify-content-center align-items-center min-vh-100">
+    <form method="post" class="border rounded p-5 shadow-sm bg-light" style="width: 100%; max-width: 400px;">
+        <h2 class="text-center mb-4 text-primary">Login</h2>
+
+        <div class="form-group mb-3">
+            <label for="exampleInputEmail1" class="form-label">Email address</label>
+            <input name="txtEmail" type="email" class="form-control rounded-pill" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+        </div>
+
+        <div class="form-group mb-3">
+            <label for="exampleInputPassword1" class="form-label">Password</label>
+            <input name="txtPassword" type="password" class="form-control rounded-pill" id="exampleInputPassword1" placeholder="Password">
+        </div>
+
+        <div class="form-group form-check mb-4">
+            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+            <label class="form-check-label" for="exampleCheck1">Remember me</label>
+        </div>
+
+        <div class="d-flex justify-content-between">
+            <input type="submit" class="btn btn-primary rounded-pill px-4" name="btnLogin" value="Login" />
+            <input type="reset" class="btn btn-outline-danger rounded-pill px-4" value="Cancel" />
+        </div>
+
+        <div class="text-center mt-3">
+            <a href="#" class="text-decoration-none text-primary">Forgot password?</a>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|c:\\users\\vuhuu\\source\\repos\\candidate_management_se173535\\candidate_management_se173535\\pages\\loginpages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|solutionrelative:candidate_management_se173535\\pages\\loginpages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|c:\\users\\vuhuu\\source\\repos\\candidate_management_se173535\\candidate_management_se173535\\pages\\candidateprofilepages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|solutionrelative:candidate_management_se173535\\pages\\candidateprofilepages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|c:\\users\\vuhuu\\source\\repos\\candidate_management_se173535\\candidate_management_se173535\\pages\\candidateprofilepages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|solutionrelative:candidate_management_se173535\\pages\\candidateprofilepages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|c:\\users\\vuhuu\\source\\repos\\candidate_management_se173535\\candidate_management_se173535\\pages\\candidateprofilepages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|solutionrelative:candidate_management_se173535\\pages\\candidateprofilepages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|c:\\users\\vuhuu\\source\\repos\\candidate_management_se173535\\candidate_management_se173535\\pages\\candidateprofilepages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|solutionrelative:candidate_management_se173535\\pages\\candidateprofilepages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|c:\\users\\vuhuu\\source\\repos\\candidate_management_se173535\\candidate_management_se173535\\pages\\candidateprofilepages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|solutionrelative:candidate_management_se173535\\pages\\candidateprofilepages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|c:\\users\\vuhuu\\source\\repos\\candidate_management_se173535\\candidate_management_se173535\\pages\\loginpages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|solutionrelative:candidate_management_se173535\\pages\\loginpages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|c:\\users\\vuhuu\\source\\repos\\candidate_management_se173535\\candidate_management_se173535\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|solutionrelative:candidate_management_se173535\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|c:\\users\\vuhuu\\source\\repos\\candidate_management_se173535\\candidate_management_se173535\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|solutionrelative:candidate_management_se173535\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|c:\\users\\vuhuu\\source\\repos\\candidate_management_se173535\\candidate_management_se173535\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|solutionrelative:candidate_management_se173535\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|c:\\users\\vuhuu\\source\\repos\\candidate_management_se173535\\candidate_management_se173535\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23E22AD4-2AB8-457A-A9AB-D2685A3ECC12}|Candidate_Management_SE173535\\Candidate_Management_SE173535.csproj|solutionrelative:candidate_management_se173535\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1ADA56-6888-4FFC-B7A5-E523B86420D5}|Candidate_Service\\Candidate_Service.csproj|c:\\users\\vuhuu\\source\\repos\\candidate_management_se173535\\candidate_service\\ihraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1ADA56-6888-4FFC-B7A5-E523B86420D5}|Candidate_Service\\Candidate_Service.csproj|solutionrelative:candidate_service\\ihraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1ADA56-6888-4FFC-B7A5-E523B86420D5}|Candidate_Service\\Candidate_Service.csproj|c:\\users\\vuhuu\\source\\repos\\candidate_management_se173535\\candidate_service\\ijobpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1ADA56-6888-4FFC-B7A5-E523B86420D5}|Candidate_Service\\Candidate_Service.csproj|solutionrelative:candidate_service\\ijobpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1ADA56-6888-4FFC-B7A5-E523B86420D5}|Candidate_Service\\Candidate_Service.csproj|c:\\users\\vuhuu\\source\\repos\\candidate_management_se173535\\candidate_service\\icandidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1ADA56-6888-4FFC-B7A5-E523B86420D5}|Candidate_Service\\Candidate_Service.csproj|solutionrelative:candidate_service\\icandidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1ADA56-6888-4FFC-B7A5-E523B86420D5}|Candidate_Service\\Candidate_Service.csproj|c:\\users\\vuhuu\\source\\repos\\candidate_management_se173535\\candidate_service\\candidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1ADA56-6888-4FFC-B7A5-E523B86420D5}|Candidate_Service\\Candidate_Service.csproj|solutionrelative:candidate_service\\candidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\Pages\\CandidateProfilePages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Candidate_Management_SE173535\\Pages\\CandidateProfilePages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\Pages\\CandidateProfilePages\\Index.cshtml.cs",
+              "RelativeToolTip": "Candidate_Management_SE173535\\Pages\\CandidateProfilePages\\Index.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:49:52.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\Pages\\CandidateProfilePages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Candidate_Management_SE173535\\Pages\\CandidateProfilePages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\Pages\\CandidateProfilePages\\Edit.cshtml.cs",
+              "RelativeToolTip": "Candidate_Management_SE173535\\Pages\\CandidateProfilePages\\Edit.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:49:34.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\Pages\\CandidateProfilePages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Candidate_Management_SE173535\\Pages\\CandidateProfilePages\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\Pages\\CandidateProfilePages\\Details.cshtml.cs",
+              "RelativeToolTip": "Candidate_Management_SE173535\\Pages\\CandidateProfilePages\\Details.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:49:23.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\Pages\\CandidateProfilePages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Candidate_Management_SE173535\\Pages\\CandidateProfilePages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\Pages\\CandidateProfilePages\\Delete.cshtml.cs",
+              "RelativeToolTip": "Candidate_Management_SE173535\\Pages\\CandidateProfilePages\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:49:10.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\Pages\\CandidateProfilePages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Candidate_Management_SE173535\\Pages\\CandidateProfilePages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\Pages\\CandidateProfilePages\\Create.cshtml.cs",
+              "RelativeToolTip": "Candidate_Management_SE173535\\Pages\\CandidateProfilePages\\Create.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:48:51.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\Pages\\LoginPages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Candidate_Management_SE173535\\Pages\\LoginPages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\Pages\\LoginPages\\Login.cshtml.cs",
+              "RelativeToolTip": "Candidate_Management_SE173535\\Pages\\LoginPages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:44:04.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "Candidate_Management_SE173535\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\wwwroot\\app.css",
+              "RelativeToolTip": "Candidate_Management_SE173535\\wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-02T09:32:28.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\Pages\\LoginPages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Candidate_Management_SE173535\\Pages\\LoginPages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\Pages\\LoginPages\\Login.cshtml",
+              "RelativeToolTip": "Candidate_Management_SE173535\\Pages\\LoginPages\\Login.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T08:53:21.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Candidate_Management_SE173535\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Candidate_Management_SE173535\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T08:51:55.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\appsettings.json",
+              "RelativeDocumentMoniker": "Candidate_Management_SE173535\\appsettings.json",
+              "ToolTip": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\appsettings.json",
+              "RelativeToolTip": "Candidate_Management_SE173535\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T08:51:30.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IJobpostService.cs",
+              "DocumentMoniker": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Service\\IJobpostService.cs",
+              "RelativeDocumentMoniker": "Candidate_Service\\IJobpostService.cs",
+              "ToolTip": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Service\\IJobpostService.cs",
+              "RelativeToolTip": "Candidate_Service\\IJobpostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:50:34.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IHRAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Service\\IHRAccountService.cs",
+              "RelativeDocumentMoniker": "Candidate_Service\\IHRAccountService.cs",
+              "ToolTip": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Service\\IHRAccountService.cs",
+              "RelativeToolTip": "Candidate_Service\\IHRAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:50:33.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICandidateProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Service\\ICandidateProfileService.cs",
+              "RelativeDocumentMoniker": "Candidate_Service\\ICandidateProfileService.cs",
+              "ToolTip": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Service\\ICandidateProfileService.cs",
+              "RelativeToolTip": "Candidate_Service\\ICandidateProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:50:32.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CandidateProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Service\\CandidateProfileService.cs",
+              "RelativeDocumentMoniker": "Candidate_Service\\CandidateProfileService.cs",
+              "ToolTip": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Service\\CandidateProfileService.cs",
+              "RelativeToolTip": "Candidate_Service\\CandidateProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:50:31.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\Program.cs",
+              "RelativeDocumentMoniker": "Candidate_Management_SE173535\\Program.cs",
+              "ToolTip": "C:\\Users\\vuhuu\\source\\repos\\Candidate_Management_SE173535\\Candidate_Management_SE173535\\Program.cs",
+              "RelativeToolTip": "Candidate_Management_SE173535\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:49:39.415Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
